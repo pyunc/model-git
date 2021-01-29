@@ -1,0 +1,18 @@
+[flake8]
+max-line-length = 100
+ignore =
+    E712, # comparison to True should be ‘if cond is True:’ or ‘if cond:’
+    E731, # do not assign a lambda expression, use a def
+    W605, # Invalid escape sequence
+    W504 # line break after binary operator
+exclude =
+    food_graph/example/*,
+    scheduled_notebooks/*,
+    models/**/sgmk/* # ignore errors in bruceml files
+per-file-ignores =
+    tests/*:E501,
+    food_graph/graph_utils/neptune_db_graph_reset.py:E722,
+    food_graph/models/recommender/neptune_recommender.py:F403,F401,
+    food_graph/models/gml/data/dataset_io.py:F821
+# maximum line length
+# bare except

@@ -1,0 +1,18 @@
+exclude: ^scheduled_notebooks
+repos:
+-   repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.1.0
+    hooks:
+    -   id: end-of-file-fixer
+    -   id: trailing-whitespace
+    -   id: requirements-txt-fixer
+    -   id: double-quote-string-fixer
+-   repo: https://github.com/pre-commit/mirrors-isort
+    rev: v5.2.1
+    hooks:
+    -   id: isort
+        exclude: ^models/dip/sgmk/
+-   repo: https://github.com/PyCQA/flake8
+    rev: 3.8.3
+    hooks:
+    - id: flake8
