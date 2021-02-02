@@ -4,3 +4,6 @@
 'Brief of main'
 
 # ADICAO DO FINAL DA FEATURE2
+
+'Adicao da primeira linha da feature3'
+
