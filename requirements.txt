@@ -23,3 +23,6 @@
 'segunda linha para feature2'
 
 'terceira linha para feature2'
+
+
+# ADICAO DO FINAL DA FEATURE2
