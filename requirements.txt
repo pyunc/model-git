@@ -27,3 +27,24 @@
 'terceira linha para main2'
 
 
+'primeira linha para feature1'
+
+'segunda linha para feature1'
+
+'terceira linha para feature1'
+
+
+'primeira linha para feature2'
+
+'segunda linha para feature2'
+
+'terceira linha para feature2'
+
+
+'primeira linha para feature1 na terceira'
+
+'segunda linha para feature1  na terceira'
+
+'terceira linha para feature1  na terceira'
+
+# ADICAO DO FINAL DA FEATURE2
