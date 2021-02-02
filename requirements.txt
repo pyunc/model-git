@@ -5,11 +5,27 @@
 
 # ADICAO DO FINAL DA FEATURE2
 
-# ADICAO DO FEATURE S
 
+# ADICAO DO FEATURE S
 
 # ADICAO DO FEATURE LINE 2 S
 # ADICAO DO FEATURE T 1 
 # ADICAO DO FEATURE T 2
+
+# EXTENSION OF MAIN POSSIBILITY
+'Adicao da primeira linha da feature3'
+
+
+# ULTRA EXTENSION OF MAIN POSSIBILITY
+'addition of general main'
+
+
+
+
+
+
+
+
+
 
 
