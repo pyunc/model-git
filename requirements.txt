@@ -16,3 +16,10 @@
 'segunda linha para feature1'
 
 'terceira linha para feature1'
+
+
+'primeira linha para feature2'
+
+'segunda linha para feature2'
+
+'terceira linha para feature2'
