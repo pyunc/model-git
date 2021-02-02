@@ -23,3 +23,9 @@
 'segunda linha para feature2'
 
 'terceira linha para feature2'
+
+'primeira linha para feature1 na terceira'
+
+'segunda linha para feature1  na terceira'
+
+'terceira linha para feature1  na terceira'
