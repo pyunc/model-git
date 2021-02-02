@@ -1,3 +1,6 @@
+
+# TITULO PARA MAIN - PROJETO IMPORTANTE PARA SER FEITO
+
 'primeira linha é uma base geral do branch'
 
 'primeira linha para first development'
@@ -9,6 +12,19 @@
 'segunda linha para third development'
 
 'terceira linha para third development'
+
+'primeira linha para main'
+
+'segunda linha para main'
+
+'terceira linha para main'
+
+
+'primeira linha para main2'
+
+'segunda linha para main2'
+
+'terceira linha para main2'
 
 
 'primeira linha para feature1'
